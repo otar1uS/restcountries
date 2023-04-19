@@ -1,4 +1,4 @@
-![](/public/desktop-design-home-light.jpg,"App photo")
+![Rest Countries app preview](/public/desktop-design-home-light.jpg)
 
 ### Cloning the repository
 
