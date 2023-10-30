@@ -3,7 +3,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/otar1uS/switter.git
+gh repo clone otar1uS/restcountries
 ```
 
 ### Install packages
